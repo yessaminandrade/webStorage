@@ -1,4 +1,5 @@
-// --- WELCOME PAGE ---
+//Puse todo el english para practicarlo jeje
+// Welcome
 let encabezado1 = document.getElementsByTagName("h1").item(0);
 let eliminarBtn = document.getElementById("eliminarBtn");
 
@@ -20,7 +21,7 @@ if (encabezado1 && eliminarBtn) {
   });
 }
 
-// --- INDEX PAGE ---
+// Index 
 let guardarBtn = document.getElementById("guardarBtn");
 let nameInput = document.getElementById("txtName");
 
